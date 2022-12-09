@@ -34,7 +34,6 @@ if(c1 > max1 ) max1 = c1 ;
 if(a2 > max2 ) max2 = a2 ;
 if(b2 > max2 ) max2 = b2 ;
 if(c2 > max2 ) max2 = c2 ;
-
 Console.WriteLine(max0);
 
 Console.WriteLine(max1);
